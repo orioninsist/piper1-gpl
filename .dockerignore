@@ -15,4 +15,5 @@
 !script/setup
 !script/dev_build
 !script/package
+!docker/constraints.txt
 !docker/entrypoint.sh
